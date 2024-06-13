@@ -63,6 +63,11 @@
  * The rate of Returning Customers increased by 50% between 2018-2021
 
 
+# Power Bi Report
+
+https://app.powerbi.com/view?r=eyJrIjoiOWU3ZTY0Y2EtOWY4ZS00ZmYyLTlhZWYtNjBmZTk5N2ZkZDI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+
 
 
 
